@@ -8,36 +8,46 @@
  */
 class Solution {
 public:
-    ListNode* collision(ListNode *headA, ListNode *headB,int d){
-        while(d){
-            headA=headA->next;
-            d--;
-        }
-        while(headA!=headB){
-            headA=headA->next;
-            headB=headB->next;
-        }
-        return headA;
-    }
+    // ListNode* collision(ListNode *headA, ListNode *headB,int d){
+    //     while(d){
+    //         headA=headA->next;
+    //         d--;
+    //     }
+    //     while(headA!=headB){
+    //         headA=headA->next;
+    //         headB=headB->next;
+    //     }
+    //     return headA;
+    // }
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int n1=0,n2=0;
+        // int n1=0,n2=0;
         ListNode* temp1=headA;
         ListNode* temp2=headB;
-        while(temp1!=nullptr){
-            n1++;
+        // while(temp1!=nullptr){
+        //     n1++;
+        //     temp1=temp1->next;
+        // }
+        // while(temp2!=nullptr){
+        //     n2++;
+        //     temp2=temp2->next;
+        // }
+        // int d=abs(n1-n2);
+        // if(n1>n2){
+        //     return collision(headA,headB,d);
+        // }
+        // else{
+        //     return collision(headB,headA,d);
+        // }
+        if(headA==nullptr || headB==nullptr) return nullptr;
+        while(temp1!=temp2){
             temp1=temp1->next;
-        }
-        while(temp2!=nullptr){
-            n2++;
             temp2=temp2->next;
+            if(temp1==temp2) return temp1;
+            if(temp1==nullptr)temp1=headB;
+            if(temp2==nullptr) temp2=headA;
+            
         }
-        int d=abs(n1-n2);
-        if(n1>n2){
-            return collision(headA,headB,d);
-        }
-        else{
-            return collision(headB,headA,d);
-        }
+        return temp1;
     }
 };
 
