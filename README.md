@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/LuckySinghaniya/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LuckySinghaniya/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sliding Window
