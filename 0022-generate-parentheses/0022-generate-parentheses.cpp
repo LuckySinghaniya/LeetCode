@@ -10,24 +10,32 @@ class Solution {
         }
         return x==0;
     }
-    void generate(string& curr,int n){
+    void generate(string& curr,int n,int open,int close){
         if(curr.size()==2*n){
-            if(isvalid(curr)){
-                ans.push_back(curr);
-            }
+            ans.push_back(curr);
             return;
         }
-            curr.push_back('(');
-            generate(curr,n);
+            if(open<n){
+                curr.push_back('(');
+                open++;
+            generate(curr,n,open,close);
             curr.pop_back();
-            curr.push_back(')');
-            generate(curr,n);
+            open--;
+            }
+            if(close<open){
+                curr.push_back(')');
+                close++;
+            generate(curr,n,open,close);
             curr.pop_back();
+            close--;
+            }
+            
 }
 
     vector<string> generateParenthesis(int n) {
         string curr="";
-        generate(curr,n);
+        int open=0,close=0;
+        generate(curr,n,open,close);
         return ans;
     }
 };
