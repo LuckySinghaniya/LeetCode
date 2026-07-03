@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LuckySinghaniya/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LuckySinghaniya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0022-generate-parentheses) |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Recursion
 |  |
@@ -136,10 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -148,10 +152,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0040-combination-sum-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
