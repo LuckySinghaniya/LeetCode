@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LuckySinghaniya/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LuckySinghaniya/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/LuckySinghaniya/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Binary Search
 |  |
 | ------- |
