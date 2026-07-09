@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/LuckySinghaniya/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/LuckySinghaniya/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/LuckySinghaniya/LeetCode/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0493-reverse-pairs) |
 | [1288-remove-covered-intervals](https://github.com/LuckySinghaniya/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/LuckySinghaniya/LeetCode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/LuckySinghaniya/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/LuckySinghaniya/LeetCode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/LuckySinghaniya/LeetCode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Depth-First Search
