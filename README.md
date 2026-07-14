@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/LuckySinghaniya/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0493-reverse-pairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/LuckySinghaniya/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/LuckySinghaniya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/LuckySinghaniya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LuckySinghaniya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1207-unique-number-of-occurrences](https://github.com/LuckySinghaniya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/LuckySinghaniya/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/LuckySinghaniya/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LuckySinghaniya/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/LuckySinghaniya/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LuckySinghaniya/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LuckySinghaniya/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
