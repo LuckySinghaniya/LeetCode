@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LuckySinghaniya/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/LuckySinghaniya/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/LuckySinghaniya/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## String
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/LuckySinghaniya/LeetCode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LuckySinghaniya/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LuckySinghaniya/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/LuckySinghaniya/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
