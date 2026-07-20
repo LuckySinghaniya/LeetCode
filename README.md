@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/LuckySinghaniya/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/LuckySinghaniya/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/LuckySinghaniya/LeetCode/tree/master/0724-find-pivot-index) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Breadth-First Search
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/LuckySinghaniya/LeetCode/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/LuckySinghaniya/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/LuckySinghaniya/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -356,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/LuckySinghaniya/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
