@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/LuckySinghaniya/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/LuckySinghaniya/LeetCode/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LuckySinghaniya/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/LuckySinghaniya/LeetCode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LuckySinghaniya/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
