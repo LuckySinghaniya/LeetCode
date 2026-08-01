@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/LuckySinghaniya/LeetCode/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/LuckySinghaniya/LeetCode/tree/master/0724-find-pivot-index) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/LuckySinghaniya/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/LuckySinghaniya/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LuckySinghaniya/LeetCode/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LuckySinghaniya/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LuckySinghaniya/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/LuckySinghaniya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/LuckySinghaniya/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1301-number-of-paths-with-max-score](https://github.com/LuckySinghaniya/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LuckySinghaniya/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/LuckySinghaniya/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/LuckySinghaniya/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/LuckySinghaniya/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -435,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
