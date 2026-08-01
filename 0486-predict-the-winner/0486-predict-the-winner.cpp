@@ -1,23 +1,24 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums, int sum1, int sum2,
-               int turn, int l, int r) {
-
-        if (l > r) {
-            return sum1 >= sum2;
+    bool solve(vector<int>& nums,int sum1,int sum2,int index,int n,int l,int r){
+        if(l>r){
+            return sum1>=sum2;
         }
-
-        if (turn == 0) {
-            return solve(nums, sum1 + nums[l], sum2, 1, l + 1, r) ||
-                   solve(nums, sum1 + nums[r], sum2, 1, l, r - 1);
-        }
-
-        return solve(nums, sum1, sum2 + nums[l], 0, l + 1, r) &&
-               solve(nums, sum1, sum2 + nums[r], 0, l, r - 1);
+            if(index%2==0){
+                return 
+                solve(nums,sum1+nums[l],sum2,index+1,n,l+1,r)||
+                solve(nums,sum1+nums[r],sum2,index+1,n,l,r-1);
+            }
+            return
+                solve(nums,sum1,sum2+nums[l],index+1,n,l+1,r)&&
+                solve(nums,sum1,sum2+nums[r],index+1,n,l,r-1);
+            
     }
-
     bool predictTheWinner(vector<int>& nums) {
-        return solve(nums, 0, 0, 0, 0, nums.size() - 1);
+        int n=nums.size();
+        int sum1=0,sum2=0;
+        int l=0,r=n-1;
+        return solve(nums,sum1,sum2,0,n,l,r);
     }
 };
 
