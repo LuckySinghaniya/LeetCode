@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0724-find-pivot-index](https://github.com/LuckySinghaniya/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/LuckySinghaniya/LeetCode/tree/master/0735-asteroid-collision) |
+| [0846-hand-of-straights](https://github.com/LuckySinghaniya/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/LuckySinghaniya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckySinghaniya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0846-hand-of-straights](https://github.com/LuckySinghaniya/LeetCode/tree/master/0846-hand-of-straights) |
 | [0930-binary-subarrays-with-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LuckySinghaniya/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/LuckySinghaniya/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/LuckySinghaniya/LeetCode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/LuckySinghaniya/LeetCode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/LuckySinghaniya/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LuckySinghaniya/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/LuckySinghaniya/LeetCode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/LuckySinghaniya/LeetCode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/LuckySinghaniya/LeetCode/tree/master/0846-hand-of-straights) |
 | [1288-remove-covered-intervals](https://github.com/LuckySinghaniya/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/LuckySinghaniya/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LuckySinghaniya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
