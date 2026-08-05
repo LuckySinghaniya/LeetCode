@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/LuckySinghaniya/LeetCode/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/LuckySinghaniya/LeetCode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0493-reverse-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/LuckySinghaniya/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/LuckySinghaniya/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckySinghaniya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/LuckySinghaniya/LeetCode/tree/master/0621-task-scheduler) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LuckySinghaniya/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/LuckySinghaniya/LeetCode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/LuckySinghaniya/LeetCode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/LuckySinghaniya/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LuckySinghaniya/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/LuckySinghaniya/LeetCode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/LuckySinghaniya/LeetCode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/LuckySinghaniya/LeetCode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/LuckySinghaniya/LeetCode/tree/master/0846-hand-of-straights) |
@@ -332,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LuckySinghaniya/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/LuckySinghaniya/LeetCode/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LuckySinghaniya/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -472,4 +478,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LuckySinghaniya/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/LuckySinghaniya/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
