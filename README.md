@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/LuckySinghaniya/LeetCode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/LuckySinghaniya/LeetCode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/LuckySinghaniya/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/LuckySinghaniya/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/LuckySinghaniya/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LuckySinghaniya/LeetCode/tree/master/0231-power-of-two) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/LuckySinghaniya/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/LuckySinghaniya/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/LuckySinghaniya/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/LuckySinghaniya/LeetCode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/LuckySinghaniya/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/LuckySinghaniya/LeetCode/tree/master/0198-house-robber) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/LuckySinghaniya/LeetCode/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LuckySinghaniya/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Monotonic Queue
