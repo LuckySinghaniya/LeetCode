@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/LuckySinghaniya/LeetCode/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/LuckySinghaniya/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LuckySinghaniya/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/LuckySinghaniya/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/LuckySinghaniya/LeetCode/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/LuckySinghaniya/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/LuckySinghaniya/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/LuckySinghaniya/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/LuckySinghaniya/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/LuckySinghaniya/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/LuckySinghaniya/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/LuckySinghaniya/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/LuckySinghaniya/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LuckySinghaniya/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/LuckySinghaniya/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/LuckySinghaniya/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/LuckySinghaniya/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LuckySinghaniya/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/LuckySinghaniya/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -572,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/LuckySinghaniya/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/LuckySinghaniya/LeetCode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/LuckySinghaniya/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/LuckySinghaniya/LeetCode/tree/master/2029-stone-game-ix) |
 ## Tournament Sort
@@ -591,12 +596,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/LuckySinghaniya/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/LuckySinghaniya/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/LuckySinghaniya/LeetCode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/LuckySinghaniya/LeetCode/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
