@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/LuckySinghaniya/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/LuckySinghaniya/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/LuckySinghaniya/LeetCode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckySinghaniya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/LuckySinghaniya/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LuckySinghaniya/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LuckySinghaniya/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
