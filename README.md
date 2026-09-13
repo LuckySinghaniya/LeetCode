@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/LuckySinghaniya/LeetCode/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/LuckySinghaniya/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/LuckySinghaniya/LeetCode/tree/master/0735-asteroid-collision) |
+| [0835-image-overlap](https://github.com/LuckySinghaniya/LeetCode/tree/master/0835-image-overlap) |
 | [0846-hand-of-straights](https://github.com/LuckySinghaniya/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/LuckySinghaniya/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/LuckySinghaniya/LeetCode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/LuckySinghaniya/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/LuckySinghaniya/LeetCode/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/LuckySinghaniya/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LuckySinghaniya/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
