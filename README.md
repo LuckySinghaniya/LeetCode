@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/LuckySinghaniya/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/LuckySinghaniya/LeetCode/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/LuckySinghaniya/LeetCode/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/LuckySinghaniya/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/LuckySinghaniya/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/LuckySinghaniya/LeetCode/tree/master/1563-stone-game-v) |
@@ -674,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0518-coin-change-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/LuckySinghaniya/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
