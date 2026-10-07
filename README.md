@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/LuckySinghaniya/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/LuckySinghaniya/LeetCode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/LuckySinghaniya/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/LuckySinghaniya/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/LuckySinghaniya/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/LuckySinghaniya/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/LuckySinghaniya/LeetCode/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LuckySinghaniya/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/LuckySinghaniya/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/LuckySinghaniya/LeetCode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/LuckySinghaniya/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/LuckySinghaniya/LeetCode/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LuckySinghaniya/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
